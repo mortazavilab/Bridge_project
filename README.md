@@ -1,4 +1,4 @@
-# Bridge Project
+# IGVF Bridge Project
 
 This repository contains analysis notebooks for the Bridge project, focused on snRNA-seq dataset annotation, comparison, and differential expression analysis.
 
